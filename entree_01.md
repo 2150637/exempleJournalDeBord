@@ -3,10 +3,17 @@
 [Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
 Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
 
-## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
+## Pourquoi j'ai choisi l'intégration multimédia 
 
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
+J'ai choisie TIM parce que c'est une des classes qui m'aidera avec le domaine que j'ai choisie qui est le **graphisme**. Je sais pas si c'est quelque chose que je ferais dans le long terme :grimacing: parce que sa peut etre tres demandant , mais j'aime quant meme le domaine de multimedia puisque:
+
+-Je decouvre de nouvelles technologie et logiciels qui peuvent m'aider a faire certaine chose plus facilement comme de l'animation ou du dessin numerique.
+
+-Je decouvrir de nouveaux moyen de faire certaines chose qui peuvent ameliorer mes futures projets.
+
+-Se me permet de toucher a plusieur type de materiels.
+
+Si je decouvre un autre metier qui peut etre similaire ou dans le domaine de l'art sa me derangerai pas de faire quelque recherche pour en savoir plus. Un des cours qui me motive le plus est Photoshop, j'ai un peu modifier et changer des photos que sa soit pour un projet a presenter ou juste personnelle.
 
 
 
