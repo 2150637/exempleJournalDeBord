@@ -11,7 +11,7 @@ J'ai choisie TIM parce que c'est une des classes qui m'aidera avec le domaine qu
 
 -Je decouvrir de nouveaux moyen de faire certaines chose qui peuvent ameliorer mes futures projets.
 
--Se me permet de toucher a plusieur type de materiels.
+-Ca me permet de toucher a plusieur type de materiels.
 
 Si je decouvre un autre metier qui peut etre similaire ou dans le domaine de l'art sa me derangerai pas de faire quelque recherche pour en savoir plus. Un des cours qui me motive le plus est Photoshop, j'ai un peu modifier et changer des photos que sa soit pour un projet a presenter ou juste personnelle.
 
