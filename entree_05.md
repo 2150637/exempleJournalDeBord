@@ -2,17 +2,17 @@
 ## Rétrospective de l'examen (1 à 2 lignes par question)
 
 ### Points forts de la préparation à l'examen
-Nommer deux points forts de votre préparation à l'examen. 
+J'ai revue les powerpoints de presentation de professeur pour revoir les informations dont j'avais besoins. 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
+J'aurai pue prendre plus de notes en classe et faire des recherches en ligne puisque que je mis connais pas trop en informatiques.
 
 ### Gestion du temps
-Comment avez-vous géré votre temps lors de l'examen?
+J'aurai pue prendre un peu plus de temps pour etudier au lieu de jouer au jeux video
 
 ### Outils et ressources
-Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+note de cours, googles and powerpoints dans le teams
 
 ### Difficultés
-Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
+prendre plus de temps d'etude et faire un peu plus de recherche pour mieux comprendre
 
